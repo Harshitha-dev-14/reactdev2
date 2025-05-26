@@ -1,3 +1,3 @@
 # reactdev2
 <br>
-another project related to react
+another project related to reactjs
